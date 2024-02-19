@@ -1,0 +1,12 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "NodeNext",
+        "esModuleInterop": true,
+        "sourceMap": true
+    },
+    "files": [
+        "src/run.mts"
+    ]
+}
